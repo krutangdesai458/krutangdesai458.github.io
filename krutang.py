@@ -4,3 +4,4 @@ c = 69
 
 print(a+b)
 print(b+a+c)
+print("test purpose")
