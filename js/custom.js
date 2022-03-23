@@ -159,7 +159,7 @@ NOTE:
 *************************/
   var win = $(window),
       foo = $('#typer');
-      foo.typer(['<h2>Hi end graphic Designer / Web designer </h2>', '<h2>graphics analyst</h2>' ]);           
+      foo.typer(['<h2> Shutterbug and Graphic Designer </h2>', '<h2>Capturing greatness</h2>' ]);           
             win.resize(function(){
               var fontSize = Math.max(Math.min(win.width() / (1 * 10), parseFloat(Number.POSITIVE_INFINITY)), parseFloat(Number.NEGATIVE_INFINITY));
               foo.css({
